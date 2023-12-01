@@ -1,1 +1,2 @@
 This is my first tutorial
+The purpose of this tutorial is to explain how to accieve transparency in Unreal Engine 5
